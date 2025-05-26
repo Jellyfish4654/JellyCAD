@@ -5,6 +5,7 @@ import nextra from 'nextra'
  */
 const nextConfig = {
   output: 'export',
+  basePath: "/JellyCAD",
   images: {
     unoptimized: true // mandatory, otherwise won't export
   }
