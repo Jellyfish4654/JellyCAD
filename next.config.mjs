@@ -13,6 +13,7 @@ const nextConfig = {
 }
 const withNextra = nextra({
   // ... other Nextra config options
+  contentDirBasePath: '/JellyCAD'
 })
  
 export default withNextra(nextConfig)
