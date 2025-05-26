@@ -8,7 +8,7 @@ export const metadata = {
   // For more information on metadata API, see: https://nextjs.org/docs/app/building-your-application/optimizing/metadata
 }
  
-const banner = <Banner storageKey="some-key">Nextra 4.0 is released 🎉</Banner>
+const banner = <Banner storageKey="some-key"></Banner>
 const navbar = (
   <Navbar
     logo={<b>JellyCAD</b>}
