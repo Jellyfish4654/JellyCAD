@@ -1,6 +1,15 @@
 export default {
-  index: "Introduction",
-  gettingstarted: "Getting Started",
-  module1: "Module 1",
-  module2: "Module 2"
+  index: {
+    title: "Home",
+    display: "hidden",
+    type: "page"
+  },
+  guide: {
+    title: 'Guide',
+    type: 'page'
+  },
+  about: {
+    title: 'About',
+    type: 'page'
+  }
 }

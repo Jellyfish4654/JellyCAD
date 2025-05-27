@@ -19,7 +19,7 @@ const footer = <Footer></Footer>
  
 export default async function RootLayout({ children }) {
   return (
-    <html
+    <html 
       // Not required, but good for SEO
       lang="en"
       // Required to be set
