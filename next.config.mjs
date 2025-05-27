@@ -8,7 +8,8 @@ const nextConfig = {
     unoptimized: true // mandatory, otherwise won't export
   },
   // Optional: Change the output directory `out` -> `dist`
-  distDir: "/JellyCAD"
+  output: 'export',
+  basePath: "/JellyCAD",
 }
 const withNextra = nextra({
   // ... other Nextra config options
