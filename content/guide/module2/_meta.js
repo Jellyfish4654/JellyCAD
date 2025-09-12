@@ -1,3 +1,3 @@
 export default {
-    rendering: "rendering"
+    joints: "joints"
 }
