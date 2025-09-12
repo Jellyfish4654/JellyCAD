@@ -1,3 +1,3 @@
 export default {
-    joints: "joints"
+    basics: "basics"
 }
