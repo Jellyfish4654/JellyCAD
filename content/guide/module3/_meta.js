@@ -1,1 +1,3 @@
-
+export default {
+    rendering: "rendering"
+}
