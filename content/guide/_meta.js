@@ -2,5 +2,6 @@ export default {
   introduction: "Introduction",
   gettingstarted: "Getting Started",
   module1: "Module 1",
-  module2: "Module 2"
+  module2: "Module 2",
+  module3: "Module 3"
 }
