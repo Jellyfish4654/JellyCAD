@@ -1,3 +1,4 @@
 export default {
-    IntroToSketchAndBodies: "Intro"
+    IntroToSketchAndBodies: "Intro",
+    Sketches1: "Sketches 1"
 }
